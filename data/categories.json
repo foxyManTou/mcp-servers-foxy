@@ -1,0 +1,62 @@
+[
+  {
+    "id": "official-and-reference",
+    "name": "Official and Reference Servers",
+    "description": "Reference implementations, SDKs, and core protocol tooling from the MCP ecosystem."
+  },
+  {
+    "id": "databases-and-storage",
+    "name": "Databases and Storage",
+    "description": "Query, manage, and explore databases, vector stores, and data warehouses."
+  },
+  {
+    "id": "developer-tools-and-code-intelligence",
+    "name": "Developer Tools and Code Intelligence",
+    "description": "Repositories, CI/CD, observability, and coding workflows for software teams."
+  },
+  {
+    "id": "browsers-search-and-web-automation",
+    "name": "Browsers, Search, and Web Automation",
+    "description": "Browse the web, scrape content, search, and automate browser interactions."
+  },
+  {
+    "id": "filesystems-and-documents",
+    "name": "Filesystems and Documents",
+    "description": "Read and write files, convert documents, and connect to knowledge bases."
+  },
+  {
+    "id": "cloud-and-infrastructure",
+    "name": "Cloud and Infrastructure",
+    "description": "Manage cloud resources, deploy services, and operate infrastructure."
+  },
+  {
+    "id": "communication-and-productivity",
+    "name": "Communication and Productivity",
+    "description": "Integrate chat, email, calendars, and team collaboration tools."
+  },
+  {
+    "id": "ai-agents-and-memory",
+    "name": "AI, Agents, and Memory",
+    "description": "LLM bridges, agent orchestration, RAG, and persistent memory layers."
+  },
+  {
+    "id": "data-analytics-and-bi",
+    "name": "Data, Analytics, and BI",
+    "description": "Analytics platforms, monitoring, and business intelligence tooling."
+  },
+  {
+    "id": "security-and-identity",
+    "name": "Security and Identity",
+    "description": "Secrets, vulnerability scanning, authentication, and security operations."
+  },
+  {
+    "id": "finance-commerce-and-business-apps",
+    "name": "Finance, Commerce, and Business Apps",
+    "description": "Payments, banking, CRM, e-commerce, and business system integrations."
+  },
+  {
+    "id": "utilities-and-examples",
+    "name": "Utilities and Examples",
+    "description": "Helpful utilities, templates, and starter servers for learning MCP."
+  }
+]
