@@ -244,7 +244,7 @@ LLM bridges, agent orchestration, RAG, and persistent memory layers.
   `agents` `multi-agent` `orchestration`
 - **[Graphiti MCP Server](https://github.com/getzep/graphiti)** `Official` `Python` — Temporal knowledge graphs for agent memory and context building.  
   `knowledge-graph` `memory` `temporal`
-- **[Hugging Face MCP Server](https://github.com/evalstate/hf-mcp-server)** `Python` — Access Hugging Face models, datasets, and Spaces from MCP clients.  
+- **[Hugging Face MCP Server](https://github.com/huggingface/hf-mcp-server)** `Official` `TypeScript` — Access Hugging Face models, datasets, and Spaces from MCP clients.  
   `huggingface` `models` `ml`
 - **[LangGraph MCP Server](https://github.com/langchain-ai/langgraph-mcp)** `Official` `Python` — Orchestrate LangGraph agents and workflows through MCP.  
   `agents` `orchestration` `langgraph`

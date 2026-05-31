@@ -1038,17 +1038,17 @@
   },
   {
     "name": "Hugging Face MCP Server",
-    "url": "https://github.com/evalstate/hf-mcp-server",
+    "url": "https://github.com/huggingface/hf-mcp-server",
     "description": "Access Hugging Face models, datasets, and Spaces from MCP clients.",
     "category": "ai-agents-and-memory",
-    "language": "Python",
-    "provider": "Community",
+    "language": "TypeScript",
+    "provider": "Hugging Face",
     "tags": [
       "huggingface",
       "models",
       "ml"
     ],
-    "official": false
+    "official": true
   },
   {
     "name": "OpenAI MCP Bridge",
