@@ -105,7 +105,7 @@ function runNativeBuild(landscape2, settingsFile) {
       "--guide-file",
       join(landscapeDir, "guide.yml"),
       "--logos-path",
-      join(landscapeDir, "logos"),
+      join(landscapeDir, "awesome-mcp-servers/logos"),
       "--output-dir",
       join(landscapeDir, "build"),
     ],
