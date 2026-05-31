@@ -8,14 +8,25 @@ A curated catalog of [Model Context Protocol (MCP)](https://modelcontextprotocol
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This list focuses on well-scoped, source-available servers that extend AI workflows with databases, developer tools, browsers, cloud services, and more.
 
+> **Explore visually:** Browse the [MCP Landscape](#mcp-landscape) — an interactive, searchable map of every server in this catalog.
+
 > **Source of truth:** [`data/servers.json`](data/servers.json) is the canonical catalog. The README is generated from that file.
 
 ## Quick Links
 
+- [MCP Landscape](https://landscape.mcphq.org/) — interactive server map
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/)
 - [MCP Specification](https://modelcontextprotocol.io/specification/latest)
 - [Reference Servers](https://github.com/modelcontextprotocol/servers)
 - [Contributing Guide](CONTRIBUTING.md)
+
+## MCP Landscape
+
+[![MCP Landscape](assets/mcp-landscape.png)](https://landscape.mcphq.org/)
+
+Interactive, searchable map of the MCP servers in this catalog. **[Open the live site →](https://landscape.mcphq.org/)**
+
+See [landscape/README.md](landscape/README.md) for how the landscape is built and how to preview or customize it locally.
 
 ## Catalog
 
