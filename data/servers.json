@@ -1705,5 +1705,21 @@
       "cisco"
     ],
     "official": false
+  },
+  {
+    "name": "SigRank MCP",
+    "url": "https://github.com/SunrisesIllNeverSee/sigrank-mcp",
+    "description": "AI operator token-efficiency leaderboard + yield cascade metrics. 15 tools for agents to measure, rank, and improve token usage.",
+    "category": "ai-data-and-knowledge",
+    "language": "JavaScript",
+    "provider": "SigRank",
+    "tags": [
+      "token-efficiency",
+      "leaderboard",
+      "ai-agents",
+      "telemetry",
+      "yield-cascade"
+    ],
+    "official": false
   }
 ]
